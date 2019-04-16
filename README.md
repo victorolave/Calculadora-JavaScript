@@ -4,9 +4,9 @@ Programa web con Html, Css, Javascript que emula una calculadora con sus funcion
 
 ## Construido con 🛠️
 
-Para la programación de este programa se utilizo:
+Para la programación de este programa se utilizó:
 * [Javascript](https://www.javascript.com/) - Lenguaje de programación.
-* [Visual Studio Code](https://code.visualstudio.com/) - Editor de codigo.
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código.
 
 ## Autor ✒️
 
